@@ -23,8 +23,4 @@
   </a>
 </div>
 
-#
-
-
-![snake gif](https://github.com/yasmimdias1/yasmimdias1/blob/output/github-contribution-grid-snake.svg)
 
