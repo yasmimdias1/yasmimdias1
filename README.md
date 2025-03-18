@@ -26,4 +26,5 @@
 #
 
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/yasmimdias1/yasmimdias1/blob/output/github-contribution-grid-snake.svg)
+
