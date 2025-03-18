@@ -1,16 +1,29 @@
-## Hi there 👋
+<h3 align="left">Connect with me!</h3>
 
-<!--
-**yasmimdias1/yasmimdias1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFA6C5&color:FFF)](mailto:meduardacardoso.121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFA6C5&color:FFF)](https://www.linkedin.com/in/mari4souza/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFA6C5&color:FFF)](https://www.instagram.com/mari4.souza/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center" > Linguagens-Frameworks-Ferramentas </h3>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github" />
+</div>
+
+#
+
+<div style="text-align: center;" align="center">
+  <h3>GitHub Stats</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yasmimdias1&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFA6C5&text_color=FFF&border_radius=3&border_color=FFA6C5&icon_color=FFA6C5&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/yasmimdias1/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yasmimdias1&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&show_icons=true&title_color=FFA6C5&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=FFA6C5&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
+#
+
+
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
